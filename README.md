@@ -14,7 +14,7 @@ This is an E-Commerce Store project built with Next.js, React.js, TypeScript, an
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-
+- 
 ## Features
 
 - Responsive design
@@ -23,7 +23,7 @@ This is an E-Commerce Store project built with Next.js, React.js, TypeScript, an
 - User authentication and registration
 - Order placement and management
 - Admin dashboard for managing products and orders
- 
+
 ## Installation
 
 To run this project locally, follow these steps:
