@@ -1,4 +1,4 @@
-# E-Commerce Store 
+# E-Commerce Store
 
 [![Next.js](https://img.shields.io/badge/Next.js-v12.0.7-blue.svg)](https://nextjs.org/)
 [![React.js](https://img.shields.io/badge/React.js-v17.0.2-blue.svg)](https://reactjs.org/)
