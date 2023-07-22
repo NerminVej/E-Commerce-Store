@@ -24,7 +24,7 @@ This is an E-Commerce Store project built with Next.js, React.js, TypeScript, an
 - Order placement and management
 - Admin dashboard for managing products and orders
 
-## Installation
+## Installation 
 
 To run this project locally, follow these steps:
 
