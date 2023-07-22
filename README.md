@@ -8,7 +8,7 @@
 This is an E-Commerce Store project built with Next.js, React.js, TypeScript, and Tailwind CSS.
 
 ## Table of Contents
- 
+  
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
