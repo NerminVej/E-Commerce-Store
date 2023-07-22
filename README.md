@@ -5,7 +5,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-v4.3.5-blue.svg)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v2.2.19-blue.svg)](https://tailwindcss.com/)
  
-This is an E-Commerce Store project built with Next.js, React.js, TypeScript, and Tailwind CSS.
+This is an E-Commerce Store project built with Next.js, React.js, TypeScript, and Tailwind CSS. 
 
 ## Table of Contents
   
