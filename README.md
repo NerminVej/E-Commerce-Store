@@ -14,7 +14,7 @@ This is an E-Commerce Store project built with Next.js, React.js, TypeScript, an
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- 
+
 ## Features
 
 - Responsive design
